@@ -4,3 +4,41 @@
 
 3. Market research of the selected product using some tools and google trends
 
+
+
+This week 
+
+ 1 hour to create atleast 2 products per day (Profit = 30%)
+ - Import Price + FBA Price + Storage Price + Loss on product
+
+Import Price = China Price ( Product + Shipping)
+FBA Price ( Calulater)
+Storage Price ( Cal)
+Loss on product ( Damages, wear and tear)
+GST (18%)
+Competeators price
+Product Review and social media charges(SEO)
+
+Price should be min 30%
+
+
+China - Shipping -> FBA center with our seller details
+
+
+
+
+Prop : Sole owner will be PAN holder (10 lacs) = After tax cutting = 50% each
+Initial Capital = 1 lac ( to gether)
+
+
+Vision:
+Convert to PVT - Company PAN, TAN, GST, Current Account, GST software access, Accounts software
+
+
+
+Example :
+
+50 Cables => 50 = 2500
+
+FBA Listing (1 hour = Photos, Description, Stock update, Reviews gather)
+
