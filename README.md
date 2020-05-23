@@ -42,3 +42,14 @@ Example :
 
 FBA Listing (1 hour = Photos, Description, Stock update, Reviews gather)
 
+Non Perishable products 
+
+
+
+-- Attract(talk more about future engagements)
+-- Best price in the country including shipping - No damages (no orders)
+-- Box package without brand names ( Custom brand - IRIS)
+-- If all good, monthly orders
+-- Always ask for live production photos
+-- Invoice must for GST claimiming
+-- 
