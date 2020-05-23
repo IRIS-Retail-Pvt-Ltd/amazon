@@ -53,3 +53,12 @@ Non Perishable products
 -- Always ask for live production photos
 -- Invoice must for GST claimiming
 -- 
+
+
+How to search a product :
+
+1. Search product in india mart with shipping
+2. Search same product in china with shipping
+3. Selling speed and advert
+4. Fragile + Perishable + Restricitions on import
+5. End we will be able to decide whether to buy or not ?
