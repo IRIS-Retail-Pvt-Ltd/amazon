@@ -15,7 +15,7 @@ Check for product expiry dates
  
 Research about product in Google Trends and Jungle Scout
 
-While doing research, check for min of 30% profit on a product sold considering below criterias
+While doing research, check for min of 30% profit on a product sold considering below criteria
 
     Import Price ( Product + Shipping )
     FBA fees
@@ -30,12 +30,12 @@ While doing research, check for min of 30% profit on a product sold considering 
 
 ## Execute
 
-Attract(talk more about future engagements).
-Best price in the country including shipping - No damages (no orders).
-Box package without brand names ( Custom brand - IRIS).
-If all good, monthly orders.
-Always ask for live production photos.
-Invoice must for GST claimiming.
+ - Attract(talk more about future engagements). 
+ - Best price in the country including shipping - No damages (no orders). 
+ - Box package without brand names ( Custom brand - IRIS). 
+ - If all good, monthly orders. 
+ - Always ask for live production photos. 
+ - Invoice must for GST claim.
 
 ## Review
 
