@@ -30,7 +30,7 @@ While doing research, check for min of 30% profit on a product sold considering 
 
 ## Execute
 
- - Attract(talk more about future engagements). 
+ - Attract (talk more about future engagements). 
  - Best price in the country including shipping - No damages (no orders). 
  - Box package without brand names ( Custom brand - IRIS). 
  - If all good, monthly orders. 
@@ -40,3 +40,12 @@ While doing research, check for min of 30% profit on a product sold considering 
 ## Review
 
 Every weekend @ 3 PM
+
+
+## Future Ideas
+
+ 1. Understand B2B Business in Domestic products and international products
+ 2. How to make own shipment package in local 
+ 3. Invest in a small renting space and stock up the inventory
+ 4. Try to create a corporate gifting catalog and socialize in digital channels
+ 5. 
